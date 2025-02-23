@@ -11,7 +11,7 @@ using System.Collections.Generic;
 namespace Oxide.Plugins
 {
     [Info("Suspicious Code Unlock", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Alerts admins when a player unlocks someone else's code lock.")]
     public class SuspiciousCodeUnlock : RustPlugin
     {
         #region Fields
